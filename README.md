@@ -18,3 +18,7 @@
 - **Quick Controls:** Increment (`+1`) or decrement (`-1`) values with a single tap (minimum value `0`).
 - **Context Menu:** Reset or delete any counter via the menu.
 - **Local Persistence:** Automatically saves all counters and values using `SharedPreferences`.
+
+## Download
+
+Download the latest APK from the [Releases](https://github.com/antag0ni/MyCountersApp/releases) page and install it on your Android device.
